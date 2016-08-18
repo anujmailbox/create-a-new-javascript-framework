@@ -1,17 +1,19 @@
-# [Create a New JavaScript Framework: Full Stack Reactivity with Milo][published url]
+# [Create a New JavaScript Framework][published url]
 ## Instructor: [Jason Green][instructor url]
 
-Milojs is the reactive framework used to create the CMS of the Mail Online—the world's most popular English-language online newspaper. Milojs allows us to seamlessly connect data sources together, including models, model paths, and the DOM. As you'll see in this course, we can take this connection one step further to create a full stack reactive connection with WebSockets.
+The Daily Mail Online is the world's most popular English-language online newspaper, with some 200 million unique monthly visitors and around 900 new articles published daily. With this volume of content, posting an article needs to be as smooth and intuitive as possible, with a completely inline WYSIWYG editing experience and an easy drag-and-drop approach to images, videos, tables and other graphical elements.
 
-In this Coffee Break Course, Envato Tuts+ instructor Jason Green will demonstrate the power of Milojs by working through a fully functional Slack clone chat application. You'll see how Milojs makes this possible with very little server code. 
+In this short course, Daily Mail developer Jason Green will tell you all about Milojs: the Daily Mail's homegrown JavaScript framework that powers their high-volume news site. He'll tell you all about the reasons the Daily Mail team decided to roll their own framework and introduce some of the features that set Milo apart from other existing frameworks. You'll also see how to implement a fully functional Slack-like chat application with very little server code. 
 
-This is the third course in a series about Milojs, its architecture, and the challenges of building it. In the first course, [How We Built the Daily Mail CMS](https://code.tutsplus.com/courses/create-a-new-javascript-framework-how-we-built-the-daily-mail-cms), Jason introduced the framework, explaining the motivations for creating it and demonstrating some of its most powerful features. In the second course, [Challenges of Rolling Your Own](https://code.tutsplus.com/courses/create-a-new-javascript-framework-challenges-of-rolling-your-own), Jason talks about some of the technical and interpersonal challenges his team faced.
+Not all of the challenges in development are technical, however. Jason will also be looking at some of the interpersonal issues the team faced, and how they resolved disagreements within the team and got new team members up to speed with a custom framework.
+
+The three lessons of this course were originally published as a series of Coffee Break Courses.
 
 
 ## Source Files Description
 
 
-This repository contains the source code for the completed course project - aa fully functional Slack clone chat application.
+This repository contains the source code for the completed course project - a fully functional Slack clone chat application.
 
 
 ## 3rd-Party Content
@@ -20,9 +22,9 @@ The source code in this repository is licensed under the [BSD 2-Clause](https://
 
 ------
 
-These are source files for the Tuts+ course: [Create a New JavaScript Framework: Full Stack Reactivity with Milo][published url]
+These are source files for the Tuts+ course: [Create a New JavaScript Framework][published url]
 
 Available on [Tuts+](https://tutsplus.com). Teaching skills to millions worldwide.
 
-[published url]: https://code.tutsplus.com/courses/create-a-new-javascript-framework-full-stack-reactivity-with-milo
+[published url]: https://code.tutsplus.com/courses/create-a-new-javascript-framework
 [instructor url]: https://tutsplus.com/authors/jason-green
